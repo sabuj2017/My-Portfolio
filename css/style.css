@@ -33,3 +33,9 @@ body{
 .project-container{
     background-color:#2bb3dd;
 }
+.contact-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    background-color: gainsboro;
+}
